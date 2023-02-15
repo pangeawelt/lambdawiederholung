@@ -1,4 +1,4 @@
-package java_core.day37lambda;
+package java_lambda;
 //wieder und wieder spezielle Methoden erforderlich
 // wie Hammer braucht man
 
