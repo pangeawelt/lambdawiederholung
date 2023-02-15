@@ -1,4 +1,4 @@
-package java_core.day36lambda;
+package java_lambda;
 
 import java.util.ArrayList;
 import java.util.Comparator;
