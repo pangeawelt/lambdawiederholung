@@ -1,6 +1,6 @@
-package java_core.day37lambda;
+package java_lambda;
 
-import java_core.day36lambda.Utils;
+import java.Utils;
 
 import java.util.ArrayList;
 import java.util.List;
