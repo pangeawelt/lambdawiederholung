@@ -32,7 +32,7 @@ public class Lambdawiederholung1 {
             System.out.println(nums);
             System.out.println();
             System.out.println("2-gerade Elemente-Struc : ");
-            printElementsstruc(nums);
+            printElementsstruktur(nums);
             System.out.println();
             System.out.println("3-gerade Elemente-Funk : ");
             printElementsfunc(nums);
@@ -57,7 +57,7 @@ public class Lambdawiederholung1 {
 
 
         //1- Setzen Sie einen Methode, die Werte der einer List gleich Zeile mit Leerzeichnen gibt, um.
-        public static void printElementsstruc(List<Integer> num) {
+        public static void printElementsstruktur(List<Integer> num) {
             for (Integer w : num) {
                 System.out.print(w + " ");
             }
